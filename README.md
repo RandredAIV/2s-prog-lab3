@@ -197,7 +197,8 @@ Implemented:
 
 ## Usage
 
-1. Compile the required source file.
-2. Run the program.
-3. Enter input parameters.
-4. View the results in the console.
+1. Open the required source file.
+2. Compile the required source file.
+3. Run the program.
+4. Enter input parameters.
+5. View the results in the console.
